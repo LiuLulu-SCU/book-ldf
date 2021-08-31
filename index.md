@@ -8,6 +8,7 @@ biblio-style: apa
 bibliography: [mybib.bib]
 link-citations: yes
 site: bookdown::bookdown_site
+output_dir: "docs"
 ---
 
 
